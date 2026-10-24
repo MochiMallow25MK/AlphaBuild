@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlphaBuild - Interactive Alphabet Word Builder
 
 HCI midterm project (DPRG508). Children build words with plastic letters and fiducial
@@ -17,3 +18,7 @@ Full step-by-step instructions: AlphaBuild_Guide.docx
 
 No cameras? Use  python fake_tuio.py  instead of reacTIVision and
 python main.py --no-camera  (see the guide, Step A).
+=======
+# AlphaBuild
+An educational game for children that teaches letter recognition, spelling, and vocabulary through physical interaction.
+>>>>>>> 98404c17890789f1bb814a448c76dc582577f237
