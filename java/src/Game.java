@@ -4,7 +4,6 @@ public class Game {
     public static final int LETTER_MODE = 0;   // Letter Learning
     public static final int WORD_MODE = 1;     // Word Building
     public static final int SUMMARY = 2;       // end of the round
-
     // One example word for every letter A to Z (the context content).
     public static final String[] LETTER_WORDS = {
         "Apple", "Ball", "Cat", "Dog", "Egg", "Fish", "Grapes", "Hat", "Ice cream",
