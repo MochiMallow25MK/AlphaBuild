@@ -14,7 +14,7 @@ STABLE_FRAMES = 3
 
 # Letters are read from the markers' x position, left to right.
 # If your word appears backwards (TAC instead of CAT), change this to True.
-FLIP_LETTER_ORDER = False
+FLIP_LETTER_ORDER = True
 
 # ----- Gesture camera (the laptop webcam used by MediaPipe) -----
 # Run check_cameras.py to find the right number.
