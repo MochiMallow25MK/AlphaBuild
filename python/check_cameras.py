@@ -1,7 +1,3 @@
-# Shows which camera number is which, so you can set CAMERA_INDEX in config.py.
-# Press any key in the window to go to the next camera. Press q to quit.
-#   python check_cameras.py
-
 import cv2
 
 for index in range(5):

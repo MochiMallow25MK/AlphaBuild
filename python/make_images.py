@@ -1,9 +1,4 @@
 # Draws the 26 simple pictures used by the game (one example word per letter).
-# The pictures are already included in java/images, so you only need to run this
-# if you want to recreate them. You can also replace any picture with your own PNG
-# (keep the same file name, for example java/images/apple.png).
-#   pip install pillow
-#   python make_images.py
 
 import math
 import os

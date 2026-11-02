@@ -1,10 +1,4 @@
-# Listens to reacTIVision (TUIO messages over UDP) and works out which
-# letters are on the table and in which order.
-#
-# reacTIVision sends these TUIO messages for every camera frame:
-#   alive  -> the session ids of all markers that are visible now
-#   set    -> session id, marker id, x, y, angle, ... for one marker
-#   fseq   -> end of the frame
+# Listens to reacTIVision (TUIO messages over UDP) and works out which letters are on the table and in which order.
 
 import threading
 from pythonosc.dispatcher import Dispatcher

@@ -1,8 +1,3 @@
-# Pretends to be reacTIVision, so you can test without cameras or printed markers.
-# Type letters (for example CAT) to put those letters "on the table".
-# Press Enter on an empty line to remove them. Type q to quit.
-#   python fake_tuio.py
-
 import threading
 import time
 

@@ -1,6 +1,3 @@
-# AlphaBuild - settings for the Python side.
-# Change values here if something does not work on your computer.
-
 # ----- Socket (Python is the server, Java connects to it) -----
 SOCKET_HOST = "localhost"
 SOCKET_PORT = 5000

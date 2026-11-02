@@ -1,6 +1,4 @@
 # Socket server: sends letters and gestures from Python to the Java game.
-# Same idea as python-server.ipynb from the lab, but it sends plain text
-# (one message per line) because Java cannot read Python pickle data.
 
 import socket
 import threading

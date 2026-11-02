@@ -1,6 +1,4 @@
 # Hand gestures: MediaPipe finds the hand, dollarpy recognizes the movement.
-# Based on the lab files Realtime-pose.ipynb (live camera loop with MediaPipe)
-# and dollarpy.ipynb (Template, Recognizer, Point).
 
 import json
 import math

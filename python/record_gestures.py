@@ -1,6 +1,4 @@
 # Records the gesture templates that dollarpy uses to recognize gestures.
-# Run this once (and again whenever you change the camera position).
-#   python record_gestures.py
 
 import cv2
 import config

@@ -1,8 +1,4 @@
 # AlphaBuild - Python side.
-#   python main.py              runs everything (markers + gesture camera + socket)
-#   python main.py --no-camera  runs markers + socket only (no gesture camera)
-#
-# Start this BEFORE the Java game.
 
 import sys
 import time
